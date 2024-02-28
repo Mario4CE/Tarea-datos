@@ -6,7 +6,7 @@ Donde se viajara en el tiempo
 
 Aunque primero se probara los pull
 hola mundo
-prueba para git con pull
 
+prueba para git con pull
 
 hola 
