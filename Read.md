@@ -1,6 +1,6 @@
 Hola mundo
 
-Pruebas en git
+Pruebas en git para la tarea
 
 Esta es una prueba del repositorio
 
